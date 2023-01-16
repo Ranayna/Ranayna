@@ -3,7 +3,7 @@
 - 👩🏽 Pronomes: ela/dela.
 - 👩🏽‍💻 Estudante de análise e desenvolvimento de sistemas da Fatec Ipiranga.
 - 🎯 Foco em desenvolvimento web.
-<div align="inline_block">
+<div align="center">
   <a href="https://github.com/Ranayna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranayna&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranayna&layout=compact&langs_count=7&theme=cobalt"/>
