@@ -1,8 +1,7 @@
 ### Olá! Meu nome é Ranayna 👋🏽
 
 - 👩🏽 Pronomes: ela/dela.
-- 👩🏽‍💻 Estudante de análise e desenvolvimento de sistemas da Fatec Ipiranga.
-- 🎯 Foco em front-end
+- 👩🏽‍💻 Estudante de Análise e desenvolvimento de sistemas na Fatec Ipiranga.
 <div align="center">
   <a href="https://github.com/Ranayna"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranayna&show_icons=true&theme=tokyonight"/>
